@@ -1,0 +1,10 @@
+# directories
+bin
+mod
+obj
+out
+
+# files
+*.mod
+*.plt
+*.lay
